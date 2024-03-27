@@ -1,0 +1,4 @@
+com\hexaware\dao\test\EmployeeServiceDaoTest.class
+com\hexaware\dao\test\PayRollServiceDaoTest.class
+com\hexaware\entity\test\PayrollTest.class
+com\hexaware\dao\test\TaxServiceDaoTest.class
